@@ -6,4 +6,10 @@
 
 直接运行即可，由于文件较大，下载较慢
 
+## Requirements
+- iPhone and iPad models that support Face ID
+- iOS 13.2 or higher version
+- Xcode 11.3
+
+
 ![img](https://github.com/mzyy94/ARKit-Live2D/blob/master/docs/screenshot.png)
