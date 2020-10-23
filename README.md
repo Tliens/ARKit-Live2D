@@ -4,3 +4,4 @@
 
 原Demo：https://github.com/mzyy94/ARKit-Live2D 
 
+直接运行即可，由于文件较大，下载较慢
