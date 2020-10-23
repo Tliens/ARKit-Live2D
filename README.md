@@ -12,4 +12,4 @@
 - Xcode 11.3
 
 
-![img](https://github.com/mzyy94/ARKit-Live2D/blob/master/docs/screenshot.png)
+![img](https://github.com/Tliens/ARKit-Live2D/blob/main/IMG_6051.PNG)
